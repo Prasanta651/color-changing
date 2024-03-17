@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    background-color: deepskyblue;
+    padding: 10px 15px;
+    border-radius: 15px;
+    width: 150px;
+    cursor: pointer;
+}
